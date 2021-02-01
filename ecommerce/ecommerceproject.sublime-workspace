@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"guestOrder"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"coo",
+				"cookieData"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"car",
+				"cart"
+			],
+			[
+				"get",
+				"get_cart_total"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"s",
+				"shipping"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"ca",
+				"get_cart_total"
+			],
+			[
+				"tra",
+				"transaction_id"
+			],
+			[
+				"co",
+				"complete"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"pro",
+				"process_order"
+			],
+			[
+				"sh",
+				"shipping"
+			],
+			[
+				"u",
+				"userFormData"
+			],
+			[
+				"st",
+				"State"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"shi",
+				"shipping-info"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"us",
+				"userFormData"
+			],
+			[
+				"ge",
+				"get_cart_total"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"t",
+				"total"
+			],
+			[
+				"p",
+				"payment-info"
+			],
+			[
+				"A",
+				"AnonymousUser"
+			],
+			[
+				"subm",
+				"submitted"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"c",
+				"classList"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"cart",
+				"cartItems"
+			],
+			[
+				"o",
+				"orderItem"
+			],
+			[
+				"order",
+				"orderItem"
+			],
+			[
+				"Or",
+				"orderItem"
+			],
+			[
+				"P",
+				"productId"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"up",
+				"updateBtns"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"i",
+				"image"
+			],
+			[
+				"IM",
+				"images"
+			],
+			[
+				"im",
+				"Images"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"C",
+				"Customer"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"my",
+				"my_id"
+			],
+			[
+				"O",
+				"object"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"m",
+				"my_form"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ADMIN/development/myportfolio/src/manage.py",
+			"settings":
+			{
+				"buffer_size": 629,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ADMIN/development/myportfolio",
+		"/C/Users/ADMIN/development/myportfolio/src",
+		"/C/Users/ADMIN/development/myportfolio/src/base"
+	],
+	"file_history":
+	[
+		"/C/Users/ADMIN/development/ecommerce/src/store/utils.py",
+		"/C/Users/ADMIN/development/ecommerce/src/store/views.py",
+		"/C/Users/ADMIN/development/ecommerce/src/static/js/cart.js",
+		"/C/Users/ADMIN/development/ecommerce/src/store/templates/store/checkout.html",
+		"/C/Users/ADMIN/development/ecommerce/src/store/templates/store/cart.html",
+		"/C/Users/ADMIN/development/ecommerce/src/store/templates/store/main.html",
+		"/C/Users/ADMIN/development/ecommerce/src/store/models.py",
+		"/C/Users/ADMIN/development/ecommerce/src/store/urls.py",
+		"/C/Users/ADMIN/development/ecommerce/src/onlinemarket/urls.py",
+		"/C/Users/ADMIN/development/ecommerce/src/onlinemarket/settings.py",
+		"/C/Users/ADMIN/development/ecommerce/src/store/templates/store/store.html",
+		"/C/Users/ADMIN/development/ecommerce/src/static/css/main.css",
+		"/C/Users/ADMIN/development/ecommerce/src/store/admin.py",
+		"/C/Users/ADMIN/development/firstdjango/src/firstdjangoproject/settings.py",
+		"/C/Users/ADMIN/development/firstdjango/src/Blog/admin.py",
+		"/C/Users/ADMIN/development/firstdjango/src/Blog/templates/Blog/article_list.html",
+		"/C/Users/ADMIN/development/firstdjango/src/firstdjangoproject/urls.py",
+		"/C/Users/ADMIN/development/firstdjango/src/Blog/urls.py",
+		"/C/Users/ADMIN/development/firstdjango/src/Blog/views.py",
+		"/C/Users/ADMIN/development/firstdjango/src/Blog/models.py",
+		"/C/Users/ADMIN/development/firstdjango/src/Blog/templates/Blog/article_detail.html",
+		"/C/Users/ADMIN/development/firstdjango/src/products/urls.py",
+		"/C/Users/ADMIN/development/firstdjango/src/products/forms.py",
+		"/C/Users/ADMIN/development/firstdjango/src/products/templates/products/product_create.html",
+		"/C/Users/ADMIN/development/firstdjango/src/products/templates/products/product_list.html",
+		"/C/Users/ADMIN/development/firstdjango/src/products/views.py",
+		"/C/Users/ADMIN/development/firstdjango/src/products/templates/products/product_delete.html",
+		"/C/Users/ADMIN/development/firstdjango/src/products/models.py",
+		"/C/Users/ADMIN/development/firstdjango/src/pages/admin.py",
+		"/C/Users/ADMIN/development/firstdjango/src/products/templates/products/product_details.html",
+		"/C/Users/ADMIN/development/firstdjango/src/templates/product/detail.html",
+		"/C/Users/ADMIN/development/firstdjango/src/templates/home.html",
+		"/C/Users/ADMIN/development/firstdjango/src/templates/base.html",
+		"/C/Users/ADMIN/development/firstdjango/src/templates/contact.html",
+		"/C/Users/ADMIN/development/firstdjango/src/pages/views.py",
+		"/C/Users/ADMIN/development/firstdjango/src/products/admin.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\Users\\ADMIN\\development\\ecommerce\\src\\static"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update",
+			"class",
+			"update",
+			"js",
+			"model",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Model",
+			"True"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ADMIN/development/myportfolio/src/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerceproject.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
